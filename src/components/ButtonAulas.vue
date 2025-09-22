@@ -67,6 +67,8 @@ export default {
 <style scoped>
 .div {
   display: flex;
+  flex-direction: column;
+  align-items: center;
   justify-content: center;
 }
 .btn-aulas {
