@@ -4,6 +4,7 @@ Projeto desenvolvido para a **Escola de Música Maicá**.
 
 ## 🚀 Tecnologias Utilizadas
 - **Vue.js**
+- **Vue Router**
 - **JavaScript**
 - **CSS**
 - **HTML**
